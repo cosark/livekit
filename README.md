@@ -195,6 +195,11 @@ Read our [deployment docs](https://docs.livekit.io/transport/self-hosting/) for 
 [Docker images](https://hub.docker.com/r/livekit/livekit-server) and [Helm charts](https://github.com/livekit/livekit-helm)
 are available.
 
+### One-click deploy
+
+<a href="https://repocloud.io/details/LiveKit/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/livekit"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Building from source
 
 Pre-requisites:
